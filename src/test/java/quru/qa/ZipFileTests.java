@@ -20,6 +20,7 @@ public class ZipFileTests {
 
     private ClassLoader cl = ZipFileTests.class.getClassLoader();
 
+
     @Test
     @DisplayName("PDF файл содержит текст про Kubernetes ")
     void checkPdfFileInZipFileContainsText() throws Exception {
