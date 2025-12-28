@@ -1,0 +1,41 @@
+{
+  "parent_id": "251C13791",
+  "name": "Праздничное меню",
+  "products": [
+    {
+      "plu": 3148279,
+      "product_name": "Авокадо Global Village Хасс 2шт.",
+      "image_links": {
+        "small": [
+          "https://catalog-images.x5static.net/product/1162650-main/320x320.jpeg?updated_at=2025-03-10T18:16:32.545Z"
+        ],
+        "normal": [
+          "https://catalog-images.x5static.net/product/1162650-main/800x800.jpeg?updated_at=2025-03-10T18:16:32.545Z",
+          "https://catalog-images.x5static.net/product/b40281188d5c9685aa8f320fdf755dbf-additional/800x800.jpeg"
+        ]
+      },
+      "uom": "шт",
+      "step": "1.0",
+      "rating": {
+        "rating_average": 4.7,
+        "rates_count": 19886
+      },
+      "promo": null,
+      "prices": {
+        "regular": "199.99",
+        "discount": null,
+        "cpd_promo_price": null
+      },
+      "labels": null,
+      "property_clarification": "2 шт",
+      "has_age_restriction": false,
+      "stock_limit": "13.00",
+      "badges": [],
+      "initial_weight_step": "1.0",
+      "min_weight": "1.0",
+      "orange_loyalty_points": 70,
+      "is_available": true,
+      "price_piece_unit": null
+    }
+  ]
+}
