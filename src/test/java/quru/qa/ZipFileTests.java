@@ -18,7 +18,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class ZipFileTests {
 
-    private ClassLoader cl = FilesParsingTest.class.getClassLoader();
+    private ClassLoader cl = ZipFileTests.class.getClassLoader();
 
     @Test
     @DisplayName("PDF файл содержит текст про Kubernetes ")
