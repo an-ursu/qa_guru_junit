@@ -20,7 +20,7 @@ public class JsonTests {
 
 
     @Test
-    void JsonParsingTest() throws Exception {
+    void jsonParsingTest() throws Exception {
         try (Reader reader = new InputStreamReader(
                 Objects.requireNonNull(cl.getResourceAsStream("holidays_menu.json")), StandardCharsets.UTF_8)) {
 
